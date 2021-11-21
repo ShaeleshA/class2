@@ -1,1 +1,1 @@
-# class2
+# solar_power
